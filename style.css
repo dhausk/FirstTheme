@@ -3,3 +3,6 @@ Theme Name : FirstTheme
 Author: Derek Hassick
 Author URI: https://derekhassick.com
 Version: 1.0 */
+body{
+  color: blue;
+}
