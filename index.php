@@ -12,5 +12,6 @@ if(have_posts()){
 else {
   echo '<p>no posts goof</p>';
 }
+
 get_footer();
 ?>
